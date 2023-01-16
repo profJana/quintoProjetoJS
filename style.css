@@ -1,0 +1,41 @@
+body{
+    font-family: arial;
+    background-color:#E2F4F7; 
+  }
+  
+  .main{
+    text-align: center;
+    margin: 100px 0;
+    background-color:#D5F2F5; 
+    padding: 50px;
+  }
+  
+  .firstNumber, secondNumber{
+    margin: 20px;
+  }
+  
+  span{
+    color:#3C8791;
+    margin: 20px;
+  }
+  
+  input[type="number"]{
+    border: none;
+    padding: 5px;
+  }
+  
+  .button{
+    margin-top:20px
+  }
+  
+  #buttonSomar{
+    border:none;
+    background-color:#26CBE1;
+    padding: 8px 15px;
+    color:#D6F8FC;
+    cursor:pointer;
+  }
+  
+  #buttonSomar:hover{
+    background-color:#04DEFB;
+  }
